@@ -35,8 +35,16 @@ APIs
 2. Navigate to the project directory
    
 3. Install dependencies
+   
    npm install
  
 4. Start the server and mobile app
+   
    npm start
+   
+6. To start the backend:
+
+   node index.js
+
+   
     
