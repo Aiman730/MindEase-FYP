@@ -3,7 +3,7 @@
 
 👉 Overview
 
-MindEase is a smart wearable and mobile application built to monitor and manage stress in children with Autism Spectrum Disorder (ASD). The device includes a sensor that detects signs of stress in real time and immediately sends signals to the mobile app. Soothing interventions like soft music or Surah recitations are triggered through Wi-Fi connectivity to help calm the child. Caregivers receive instant alerts, allowing them to respond quickly during high-stress situations. This is the first affordable solution of its kind developed in Pakistan designed to address the lack of accessible care tools for autistic children.
+MindEase is a smart wearable device and mobile application built to monitor and manage stress in children with Autism Spectrum Disorder (ASD). The device includes a sensor that detects signs of stress in real time and immediately sends signals to the mobile app. Soothing interventions like soft music or Surah recitations are triggered through Wi-Fi connectivity to help calm the child. Caregivers receive instant alerts, allowing them to respond quickly during high-stress situations. This is the first affordable solution of its kind developed in Pakistan designed to address the lack of accessible care tools for autistic children.
 
 👉 Features
 
