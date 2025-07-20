@@ -1,4 +1,4 @@
-## MindEase – Stress Monitoring System for children with Autism Spectrum Disorder (ASD)
+# MindEase – Stress Monitoring System for children with Autism Spectrum Disorder (ASD)
 
 
 👉 Overview
