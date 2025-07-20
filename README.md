@@ -19,11 +19,19 @@ MindEase is a smart wearable and mobile application built to monitor and manage 
 
 👉 Tech Stack
 
-Frontend: React Native
+Frontend:
 
-Backend: Node.js, Express
+ • React Native
 
-Database: MongoDB
+ • Backend:
+
+ • Node.js
+
+ • Express
+
+Database: 
+
+ • MongoDB
 
 APIs
 
@@ -37,9 +45,15 @@ APIs
    
 3. Install dependencies
    
-   npm install
+  • npm install
+
+  • npm install formik yup
+
+  • npm install @react-navigation/native
+
+  • npm install @react-navigation/native-stack
  
-4. Start the server and mobile app
+5. Start the server and mobile app
    
    npm start
    
