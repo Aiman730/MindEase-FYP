@@ -23,7 +23,7 @@ Frontend:
 
  • React Native
 
- • Backend:
+Backend:
 
  • Node.js
 
